@@ -466,6 +466,15 @@ def main():
         "Otimista": {"pvu": 1.1, "cvu": 0.95, "cf": 0.98},
         "Pessimista": {"pvu": 0.95, "cvu": 1.05, "cf": 1.1}
     }
+
+    st.sidebar.markdown("---")
+    st.sidebar.markdown("""
+    **Sobre o aplicativo**
+
+    Este aplicativo foi desenvolvido como material didático para aulas sobre Análise Custo-Volume-Lucro.
+
+    © 2025 - Prof. José Américo – Universidade Cândido Mendes
+    """)
     
     # Ajustar valores com base no cenário
     pvu_simulado = pvu * fatores_cenario[cenario]["pvu"]
@@ -730,4 +739,26 @@ def main():
 if __name__ == "__main__":
     main()
     
-    #
+    
+# Rodapé
+st.markdown("""
+<hr style="height:1px;border:none;color:#cccccc;background-color:#cccccc;margin-top:50px;" />
+<div style="text-align: center; color: #666666; font-size: 0.8em; padding: 10px 0px;">
+    Desenvolvido como material didático para aulas sobre Análise Custo-Volume-Lucro.<br>
+    © 2025 - Prof. José Américo – Universidade Cândido Mendes
+</div>
+""", unsafe_allow_html=True)
+
+# Adicionar CSS para melhorar a aparência do aplicativo
+def add_footer_css():
+    st.markdown("""
+    <style>
+        .viewerBadge {
+            display: none !important;
+        }
+        #MainMenu {visibility: hidden;}
+        footer {visibility: hidden;}
+    </style>
+    """, unsafe_allow_html=True)
+
+add_footer_css()

@@ -1,9 +1,11 @@
 **Análise Custo-Volume-Lucro (CVL) - Aplicativo Educacional**
 
 **Visão Geral**
+
 Este aplicativo Streamlit interativo foi projetado para auxiliar no ensino e aprendizado da Análise Custo-Volume-Lucro (CVL). Desenvolvido para estudantes e professores de Ciências Contábeis, o aplicativo permite a criação de cenários, simulações e análises dinâmicas para compreender os conceitos fundamentais de contabilidade gerencial.
 
 **Recursos**
+
 Interatividade completa: Ajuste parâmetros para observar mudanças em tempo real
 Visualizações claras: Gráficos detalhados mostrando relações entre custos, volume e lucro
 Cenários pré-definidos: Exemplos práticos para diversos tipos de negócios
@@ -11,7 +13,8 @@ Análise automática: Interpretações explicativas dos resultados gerados
 Exportação de dados: Baixe relatórios em CSV para análise posterior
 
 **Funcionalidades**
-Conceitos Demonstrados
+
+Conceitos Demonstrados:
 
 Margem de contribuição (unitária e percentual)
 Ponto de equilíbrio (em unidades e valores monetários)
@@ -31,6 +34,7 @@ Quantidade de produtos vendidos
 Tipo de moeda
 
 **Instalação**
+
 Pré-requisitos
 
 Python 3.8+
@@ -74,6 +78,7 @@ Experimente os diferentes cenários (otimista, base, pessimista)
 Exporte os resultados usando o botão de download
 
 **Finalidade Educacional**
+
 Este aplicativo foi desenvolvido para:
 Apoiar professores em aulas de Contabilidade Gerencial e Contabilidade de Custos
 Ajudar estudantes a visualizar conceitos abstratos de forma concreta
@@ -81,12 +86,14 @@ Permitir a exploração de cenários "e se?" para aprofundar o entendimento
 Fornecer uma ferramenta prática para estudo independente
 
 **Faça um fork do projeto**
+
 Crie uma branch para sua feature (git checkout -b feature/nova-funcionalidade)
 Commit suas mudanças (git commit -m 'Adiciona nova funcionalidade')
 Push para a branch (git push origin feature/nova-funcionalidade)
 Abra um Pull Request
 
 **Contato**
+
 José Américo - tesouraria.rj@gmail.com
 Link do projeto: https://github.com/JAmerico1898/CVL
 

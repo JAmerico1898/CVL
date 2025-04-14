@@ -4,7 +4,6 @@
 Este aplicativo Streamlit interativo foi projetado para auxiliar no ensino e aprendizado da Análise Custo-Volume-Lucro (CVL). Desenvolvido para estudantes e professores de Ciências Contábeis, o aplicativo permite a criação de cenários, simulações e análises dinâmicas para compreender os conceitos fundamentais de contabilidade gerencial.
 
 **Recursos**
-
 Interatividade completa: Ajuste parâmetros para observar mudanças em tempo real
 Visualizações claras: Gráficos detalhados mostrando relações entre custos, volume e lucro
 Cenários pré-definidos: Exemplos práticos para diversos tipos de negócios
@@ -22,6 +21,7 @@ Alavancagem operacional
 Análise de lucro/prejuízo
 
 **Personalização**
+
 O aplicativo permite o ajuste dos seguintes parâmetros:
 
 Preço de venda unitário

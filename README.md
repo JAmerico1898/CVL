@@ -4,7 +4,7 @@
 
 Este aplicativo interativo em Streamlit foi desenvolvido para apoiar o ensino e aprendizado da Análise Custo-Volume-Lucro (CVL). Pensado para estudantes e professores de Ciências Contábeis, ele possibilita a criação de simulações práticas e análises dinâmicas, facilitando a compreensão dos principais conceitos da contabilidade gerencial.
 
-https://github.com/JAmerico1898/CVL/blob/3d267116adac0eab7098797754a558904aca4af2/custo-volume-lucro_qr.png
+![image](https://github.com/user-attachments/assets/924661c1-1437-4b2e-987b-1ad8f06bbf4a)
 
 🎯 Recursos
 
